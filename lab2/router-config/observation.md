@@ -28,5 +28,8 @@ To configure a router and ping the gateway
 ### PC7-Gateway Ping
 ![PC7-Gateway Ping](pc7ping.png)
 
+### PC6-PC7 Ping
+![PC6-PC7 Ping](pc6pc7ping.png)
+
 ### Ping GIF
 ![Ping](routerping.gif)
