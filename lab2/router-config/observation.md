@@ -2,13 +2,13 @@
 
 ## Aim
 
-To configure a router and ping the gateway
+To configure a router, connect end devices, and ping the network devices 
 
 ## Observations/Learning
 
 - Creating a topology and connecting 2 PCs to it on 2 different ports
-- Configuring a router's interfaces using `configure terminal`, `interface`, `ip address` commands. `no shutdown` to prevent the link from shutting down
-- Viewing PC config using `ipconfig` and pinging the gateway & other PC using `ping` command
+- Configuring a router's interfaces using `configure terminal`, `interface`(fa0/0, fa1/1), `ip address` commands. `no shutdown` to prevent the link from shutting down
+- Viewing PC ip configuration using `ipconfig` and pinging the gateway & other PC using `ping` command
 
 ## Images/Videos
 
