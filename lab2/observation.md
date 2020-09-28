@@ -1,5 +1,13 @@
 # Router
 
+## Aim
+To configure a router and ping the gateway
+
+## Observations/Learning
+- Configuring a routers interfaces using `configure terminal`, `interface`, `ip address` commands. `no shutdown` to prevent the link from shutting down
+- Viewing PC config using `ipconfig` and pinging the gateway using `ping` command
+
+## Images/Videos
 ### Connection
 ![Connection](connection.png)
 
@@ -18,3 +26,6 @@
 
 ### PC7-Gateway Ping
 ![PC7-Gateway Ping](pc7ping.png)
+
+### Ping GIF
+![Ping](router ping.gif)
