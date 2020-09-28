@@ -28,4 +28,4 @@ To configure a router and ping the gateway
 ![PC7-Gateway Ping](pc7ping.png)
 
 ### Ping GIF
-![Ping](router ping.gif)
+![Ping](routerping.gif)
