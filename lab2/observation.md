@@ -1,4 +1,4 @@
 # Router
 
 ## Connection
-![Connection](connection.jpg)
+![Connection](connection.png)
