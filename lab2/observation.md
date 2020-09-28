@@ -4,8 +4,8 @@
 To configure a router and ping the gateway
 
 ## Observations/Learning
-- Creating a topology and connecting 2 PC to it on 2 different ports
-- Configuring a routers interfaces using `configure terminal`, `interface`, `ip address` commands. `no shutdown` to prevent the link from shutting down
+- Creating a topology and connecting 2 PCs to it on 2 different ports
+- Configuring a router's interfaces using `configure terminal`, `interface`, `ip address` commands. `no shutdown` to prevent the link from shutting down
 - Viewing PC config using `ipconfig` and pinging the gateway using `ping` command
 
 ## Images/Videos
