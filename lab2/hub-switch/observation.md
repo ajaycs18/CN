@@ -9,4 +9,4 @@
 ![hubswitch](hubswitch.png)
 
 ### PDU Packet Simulation
-![hubswitch_simulation](hubswitch_simulation.png)
+![hubswitch_simulation](hubswitch_simulation.gif)
