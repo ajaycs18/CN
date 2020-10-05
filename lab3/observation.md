@@ -8,4 +8,20 @@
 5. Adding static routes to the routers using `ip route <dest. network> <subnet mask> <next hop>` in privileged (`enable`) configure (`configure terminal`) mode.
 6. Pinging PC1 from PC0 and PC0 from PC1 now works as expected.
 
+## Topology
+![topology](topology.png)
+
 ## PC0-PC1 Ping
+![pc0pc1ping](pc0pc1ping.png)
+
+## PC1-PC0 Ping
+![pc1pc0ping](pc1pc0ping.png)
+
+## Router 0 IP Route
+![router0iproute](router0iproute.png)
+
+## Router 1 IP Route
+![router1iproute](router1iproute.png)
+
+## Router 2 IP Route
+![router2iproute](router2iproute.png)
