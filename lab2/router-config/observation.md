@@ -7,7 +7,7 @@ To configure a router, connect end devices, and ping the network devices
 ## Observations/Learning
 
 - Creating a topology and connecting 2 PCs to it on 2 different ports
-- Configuring a router's interfaces using `enable`(privileged mode), `configure terminal`, `interface`(fa0/0, fa1/1), `ip address` commands. `no shutdown` to prevent the link from shutting down
+- Configuring a router's interfaces using `enable`(privileged mode), `configure terminal`, `interface (fa0/0, fa1/1)`, `ip address` commands. `no shutdown` to prevent the link from shutting down
 - Configuring default gateways for the PCs and setting the same in the router interfaces using the CLI with the above commands
 - Viewing PC ip configuration using `ipconfig` and pinging the gateway & other PC using `ping` command
 
