@@ -18,7 +18,7 @@
 ![router1staticroute](router1staticroute.png)
 
 ### Router 2 Default Route
-![router2defaultroute](lab4/router2defaultroute.png)
+![router2defaultroute](router2defaultroute.png)
 
 ### PC0 - PC3 Ping
 ![pc0pc3ping](pc0pc3ping.png)
