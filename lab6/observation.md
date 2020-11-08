@@ -5,7 +5,7 @@
 - Connected the routers using _serial ports_ through _DCE_ cables 
 - Configured router ip addresses using `ip address <address> <subnet_mask>`
 - `encapsulation ppp` and `clock rate 64000` used to specify ppp protocol and clock rate in routers 0 and 1 for the serial ports
-- Configured RIP routing using `router rip` then `network <address>` commands
+- Configured RIP routing using `router rip` then `network <address>` commands, where _address_ refers to the networks directly connected to the router
 
 ## Topology
 ![topology](Topology.png)
